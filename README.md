@@ -1,4 +1,5 @@
-   <!-- <img alt="html5" src="./github-banner.png" /> -->
+  <!--- banner --->
+<img src="./github-banner.png" alt="Hello world">
 
 ## About Me 
 
