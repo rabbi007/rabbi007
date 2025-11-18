@@ -32,7 +32,7 @@ Feel free to reach out to me or connect with me on  [Linkedin](https://www.linke
 You can also find me on:
 
 - **Email**: rabbi@live.com
-- **Linkedin**: [Click Here](https://www.linkedin.com/in/)
+- **Linkedin**: [Click Here](https://www.linkedin.com/in/khandaker-reza-e-rabbi-1079b2399)
 - **Facebook** : [Click Here](https://www.facebook.com/reza.rabbi)
 
 
