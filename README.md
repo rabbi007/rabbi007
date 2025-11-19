@@ -27,12 +27,12 @@ Hi there! I'm <b>Khandaker Reza-e-Rabbi</b>. I'm a passionate Web Developer with
 
 
 ## Contact
-Feel free to reach out to me or connect with me on  [Linkedin](https://www.linkedin.com/in/)
+Feel free to reach out to me or connect with me on  [Linkedin](https://www.linkedin.com/in/khandaker-reza-e-rabbi/)
 
 You can also find me on:
 
 - **Email**: rabbi@live.com
-- **Linkedin**: [Click Here](https://www.linkedin.com/in/khandaker-reza-e-rabbi-1079b2399)
+- **Linkedin**: [Click Here](https://www.linkedin.com/in/khandaker-reza-e-rabbi/)
 - **Facebook** : [Click Here](https://www.facebook.com/reza.rabbi)
 
 
